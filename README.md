@@ -1,4 +1,4 @@
-
+![logo](https://github.com/GABBAR-AMIT/Amit/blob/main/gif.gif)
 <h1 align="center">Hi 👋, I'm Amit kumar sahu</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
