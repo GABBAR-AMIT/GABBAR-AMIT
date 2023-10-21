@@ -5,11 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Ai mouse**
+- 🔭 I’m currently working on [E-commerce website](https://github.com/GABBAR-AMIT/django-jewelry-shop-main)
 
-- 🌱 I’m currently learning **Python,flask,numpy,panda,cybersecurity**
+- 🌱 I’m currently learning **Python,flask,Django,RESTApi,Bootstrap**
 
-- 💬 Ask me about **Python, Basic Cyber-security**
+- 🤝 I’m looking for help with [E-commerce website](https://github.com/GABBAR-AMIT/django-jewelry-shop-main)
+
+- 👨‍💻 All of my projects are available at [https://github.com/GABBAR-AMIT?tab=repositories](https://github.com/GABBAR-AMIT?tab=repositories)
+
+- 💬 Ask me about **Python, Basic Cyber-security, Django**
 
 - 📫 How to reach me **Amitsahu5323@gmail.com**
 
